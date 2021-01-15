@@ -1,0 +1,25 @@
+{
+  "name": "@brave-agency/browserslist-config",
+  "version": "1.0.1",
+  "description": "Brave's shareable set of Browsers we build for, to maintain Standards across projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brave-agency/browserslist-config.git"
+  },
+  "keywords": [
+    "Browserslist"
+  ],
+  "author": "Sam Wells",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "bugs": {
+    "url": "https://github.com/brave-agency/browserslist-config/issues"
+  },
+  "homepage": "https://github.com/brave-agency/browserslist-config#readme"
+}
