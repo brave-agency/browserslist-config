@@ -1,6 +1,6 @@
 {
   "name": "@brave-agency/browserslist-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Brave's shareable set of Browsers we build for, to maintain Standards across projects.",
   "main": "index.js",
   "scripts": {
